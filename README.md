@@ -11,7 +11,7 @@
 
 <div>
  <p>
-I am a sophomore Computer Science student with a strong foundation in front-end web design and game development. My proficiency extends to crafting a compelling web presence, encompassing concept development, navigation design, layout, and programming. I possess a keen sense of color, having delved into the study of color theory, which adds a nuanced layer to my UI/UX preferences. 
+I am a sophomore Computer Science student with a strong foundation in web design and game development. My proficiency extends to crafting a compelling web presence, encompassing concept development, navigation design, layout, and programming. I possess a keen sense of color, having delved into the study of color theory, which adds a nuanced layer to my UI/UX preferences. 
 <br>
    My coding skills are complemented by a design sensibility, enabling me to seamlessly translate requirements into engaging online applications. I am committed to continual growth and excited about contributing my skills to innovative projects.
 </p>
